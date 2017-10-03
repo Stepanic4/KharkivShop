@@ -359,6 +359,9 @@ a:hover, a:focus {
 		background: white;
 		position: absolute;
 		margin: auto;
+		margin-right: 3%; 
+		margin-left: 1%;
+		margin
 		left: 80%;
 		top: 0;
 		right: 0;
